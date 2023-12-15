@@ -1,0 +1,6 @@
+Django
+django-environ
+djangorestframework
+djangorestframework-simplejwt
+drf-spectacular
+psycopg2-binary
